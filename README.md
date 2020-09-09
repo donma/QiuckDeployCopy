@@ -8,11 +8,13 @@
 
 分別在 source.txt 還有 target.txt 下面敘述路徑
 
-source.txt sample :
+### source.txt sample :
+
 C:\source\
 
+### target.txt sample :
 
-target.txt sample :
 C:\iis\target1\
+
 c:\iis\target2\
 
