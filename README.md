@@ -16,5 +16,8 @@ C:\source\
 
 C:\iis\target1\
 
-c:\iis\target2\
+C:\iis\target2\
+
+
+
 
